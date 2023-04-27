@@ -1,3 +1,3 @@
-export defualt function log(msg) {
+export default function log(msg) {
 	console.log(msg);
 }
